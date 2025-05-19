@@ -1,0 +1,1 @@
+# supertrunfo_logica.c
